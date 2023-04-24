@@ -1,0 +1,2 @@
+# PokemonReviewApp
+Self learning
